@@ -12,7 +12,7 @@ module.exports = {
     assetsPublicPath: '/',
     proxyTable: {
       '/api': {
-        target: "http://pgmzhw.smartdot.com",
+        target: "http://demov8.smartdot.com:8088",
         changeOrigin: true,
         pathRewrite: {
           '^/api': ''

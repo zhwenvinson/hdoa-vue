@@ -5,7 +5,7 @@
         <img src="../assets/logo.png" class="logo" />
         <div class="user-pic">
           <a-avatar size="large" icon="user" />
-          <a-button type="danger" @click="logout()">注销登录</a-button>
+          <a-button type="danger" @click="logout()">注销登录1</a-button>
         </div>
       </a-layout-header>
       <a-layout-content>
